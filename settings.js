@@ -11,7 +11,7 @@ global.websitex = "https://youtube.com/@_kiyoaintsimp_?si=DFOYvG005Odd-wbt"
 global.wagc = "https://chat.whatsapp.com/DLoSO4MHC6DANrsv3ZuXT5"
 global.themeemoji = '🖕'
 global.wm = "Zenox-Bot."
-global.botscript = 'https://github.com/Fenixid-server/Mr.-Robot' 
+global.botscript = 'https://github.com/kiyokunbotv2/Mr.-Robot' 
 global.packname = "Zenox-Bot🖕"
 global.author = "Zenox-Bot"
 global.creator = "916009259402@s.whatsapp.net"
