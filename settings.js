@@ -1,22 +1,22 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.ytname = "@fenix_programmer"
-global.socialm = "GitHub: BotDevilLozan"
-global.location = "srilanka, colombo, whaththla"
-global.botname = 'Godfather'
-global.ownernumber = '94773010580'
-global.ownername = 'Fenix id'
-global.websitex = "https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"
-global.wagc = "https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"
-global.themeemoji = '🪀'
-global.wm = "Godfather By Fenix Id."
+global.ytname = "@_KiyoAin'tSimp_"
+global.socialm = "GitHub: kiyokunbotv2"
+global.location = "india,aizawl , mizoram"
+global.botname = 'Zenox-Bot🤖'
+global.ownernumber = '916009259402'
+global.ownername = 'kiyo can't retri'
+global.websitex = "https://youtube.com/@_kiyoaintsimp_?si=DFOYvG005Odd-wbt"
+global.wagc = "https://chat.whatsapp.com/DLoSO4MHC6DANrsv3ZuXT5"
+global.themeemoji = '🖕'
+global.wm = "Zenox-Bot."
 global.botscript = 'https://github.com/Fenixid-server/Mr.-Robot' 
-global.packname = "Itz"
-global.author = "Godfather"
-global.creator = "94773010580@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["94773010580"]
+global.packname = "Zenox-Bot🖕"
+global.author = "Zenox-Bot"
+global.creator = "916009259402@s.whatsapp.net"
+global.xprefix = '/'
+global.premium = ["916009259402"]
 global.hituet = 0
 global.typemenu = 'v12'
 global.typereply = 'v4' 
@@ -25,7 +25,7 @@ global.antiforeignnumber = '91'
 global.welcome = false 
 global.anticall = true
 global.autoswview = true 
-global.groupevent = false 
+global.groupevent = true 
 global.mess = {
 	limit: 'Your limit is up!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
